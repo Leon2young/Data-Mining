@@ -1,7 +1,7 @@
 # Data-Mining
-基于数据挖掘的航空公司客户价值分析 Analysis of airline customer value based on Data Mining
-数据集来源：南方航空公司2012-2014年会员档案信息和乘坐航班记录数据
-程序实现：通过Canopy+K-means实现对客户数据的聚类分析，划分出5类客户群
+基于数据挖掘的航空公司客户价值分析 Analysis of airline customer value based on Data Mining<br>
+数据集来源：南方航空公司2012-2014年会员档案信息和乘坐航班记录数据<br>
+程序实现：通过Canopy+K-means实现对客户数据的聚类分析，划分出5类客户群<br>
 模型评估：“肘”方法+轮廓系数法
 结论：针对5类客户群，重要保持客户，重要发展客户，重要挽留客户，一般客户，低价值客户。每种客户类别的特征如图所示。
  
